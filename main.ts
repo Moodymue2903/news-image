@@ -1,16 +1,15 @@
 // news-image-01 entry (Node 22, standard library only).
 //
-// The picture is the entry.png beside this file: a newspaper front page
-// summing up Friday 13 November 2026 - Iran striking a U.S. radar as
-// tankers burn in the Strait of Hormuz, the Nvidia chief resigning,
-// the Microsoft outage entering day two, China's unannounced drills
-// ringing Taiwan, the FAA lifting its U.S. ground stop, and Europe
-// joining the Ukraine peace talks. The program writes that image to
-// the output directory, byte for byte, so the grader's two runs
-// produce exactly the same file.
+// The picture is the entry.png beside this file: a dense newspaper front
+// page summing up Friday 13 November 2026 — a masthead, the Iran/Hormuz
+// lead, and 22 more stories (Nvidia chief resigns, Microsoft outage,
+// China-Taiwan drills, FAA ground stop, Ukraine talks, and more), all in
+// legible type rendered by render_frontpage.py.
+// The program writes that image to the output directory, byte for byte,
+// so the grader's two runs produce exactly the same file.
 //
 // The file is JPEG bytes (told apart by its first bytes) under the
-// name entry.png, 1024 by 1024 pixels, 278,204 bytes: inside the
+// name entry.png, 1024 by 1024 pixels, 281,913 bytes: inside the
 // gate limits of 1 MiB and 1024 by 1024.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:

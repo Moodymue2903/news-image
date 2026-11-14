@@ -1,13 +1,9 @@
 # news-image-01: Friday 13 November 2026 in one image
 
-A newspaper front page summing up the world news of Friday 13 November 2026:
+A dense newspaper front page summing up the world news of Friday 13 November 2026 — 23 stories in legible type, rendered by `render_frontpage.py` (PIL, real fonts, no AI text):
 
 - **Lead:** Iran strikes a U.S. radar in Bahrain as tankers burn in the Strait of Hormuz.
-- **Nvidia chief resigns, shares plunge** (Jensen Huang steps down; shares fell 14%).
-- **Microsoft outage enters day two** (Outlook, Teams and Copilot still recovering).
-- **China's unannounced drills ring Taiwan** (large Pacific naval exercises).
-- **FAA lifts U.S. ground stop** (nationwide halt after a communications failure).
-- **Europe joins Ukraine peace talks.**
+- Plus: Nvidia chief resigns (shares plunge), Microsoft outage enters day two, China's unannounced drills ring Taiwan, FAA lifts U.S. ground stop, Europe joins Ukraine peace talks, Brooklyn collapse toll, Van Hollen vs Schumer, $1.2B Binance seizure, Pope Leo in Peru, Delhi pollution, Kaziranga crash, Qatar-Turkey pact, IEA oil surplus, chip controls, measles ruling, French warship in Syria, Wall Street, IAEA on Iran, Lebanon/Gaza, Moscow car bomb, Houthis, India tariff advantage.
 
 ## How it works
 
